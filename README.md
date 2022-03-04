@@ -2,8 +2,8 @@
 <a href="https://github.com/hendrawanap"><img align="center" src="https://github.com/hendrawanap/hendrawanap/blob/main/github_profile.gif" width=400px height=400px /></a>
 </p>
 
-## Hi, I'm Hendra (he/him) a fullstack web developer
-
+## Hello there, I'm Hendra (he/him) <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="30" />
+### I'm a Fullstack Web Developer
 ### I'm currently:
 #### 🏫 Finishing my study in informatics engineering at Universitas Brawijaya
 #### 🔭 Participating in [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path as Cohort/Participant
@@ -13,8 +13,8 @@
 - Connect to my [LinkedIn](https://www.linkedin.com/in/hendrawan-anantha-putra-23b52a21b/)
 
 ### Languages and tools I use:
-##### Frontend Web:
-<p align="center">
+- Frontend Web:
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="40"/></a>
@@ -25,8 +25,8 @@
   <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="40"/></a>
 </p>
 
-##### Backend Web:
-<p align="center">
+- Backend Web:
+<p align="left">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="40"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="45" height="40"/></a>
@@ -34,8 +34,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="40"/></a>
 </p>
 
-##### Others:
-<p align="center">
+- Others:
+<p align="left">
   <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="45" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="40"/></a>
@@ -44,12 +44,16 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="40"/></a>
 </p>
 
-[![Hendra's Github stats](https://github-readme-stats.vercel.app/api?username=hendrawanap&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/hendrawanap)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hendrawanap&show_icons=true&theme=dracula&layout=compact)](https://github.com/hendrawanap)
+---
 
+### Github Statistics 📈
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=hendrawanap&show_icons=true&theme=dracula&include_all_commits=true&hide=contribs" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hendrawanap&show_icons=true&theme=dracula&layout=compact" /></a>
+
+---
 
 #### Let's be friend:
 <p align="left">
-<a href="https://twitter.com/balung_skin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="45" /></a>
-<a href="https://www.instagram.com/hendrawan.ap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="45" /></a>
+  <a href="https://twitter.com/balung_skin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="45" /></a>
+  <a href="https://www.instagram.com/hendrawan.ap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="45" /></a>
 </p>
