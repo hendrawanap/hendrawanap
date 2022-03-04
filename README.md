@@ -1,21 +1,19 @@
-<a href="https://github.com/hendrawanap">
-  <img align="center" src="https://github.com/hendrawanap/hendrawanap/blob/main/github_profile.gif" width=400px height=400px />
-</a>
-
-- 🏫 I'm currently undergraduate student of informatics engineering at Universitas Brawijaya
-- 🔭 I’m currently working as [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path Participant
-- 🌱 I’m currently learning backend development & cloud services
-- 😄 Pronouns: (He/Him)
-
-<h3 align="left">How to reach me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hendrawan-anantha-putra-23b52a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-icon" height="40" width="45" /></a>
-<a href="https://twitter.com/balung_skin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="45" /></a>
-<a href="https://www.instagram.com/hendrawan.ap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="45" /></a>
+<a href="https://github.com/hendrawanap"><img align="center" src="https://github.com/hendrawanap/hendrawanap/blob/main/github_profile.gif" width=400px height=400px /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4>Frontend Web:</h4>
+## Hi, I'm Hendra (he/him) a fullstack web developer
+
+### I'm currently:
+#### 🏫 Finishing my study in informatics engineering at Universitas Brawijaya
+#### 🔭 Participating in [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path as Cohort/Participant
+#### 🌱 Learning backend development, microservices, and cloud services
+#### 🤝 Looking for web development projects:
+- Email me at <dev.hendrawan.ap@gmail.com>, or
+- Connect to my [LinkedIn](https://www.linkedin.com/in/hendrawan-anantha-putra-23b52a21b/)
+
+### Languages and tools I use:
+##### Frontend Web:
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/></a>
@@ -26,7 +24,8 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="40"/></a>
   <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="40"/></a>
 </p>
-<h4>Backend Web:</h4>
+
+##### Backend Web:
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="40"/></a>
@@ -34,7 +33,8 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="40"/></a>
 </p>
-<h4>Others:</h4>
+
+##### Others:
 <p align="center">
   <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="45" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="40"/></a>
@@ -46,3 +46,10 @@
 
 [![Hendra's Github stats](https://github-readme-stats.vercel.app/api?username=hendrawanap&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/hendrawanap)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hendrawanap&show_icons=true&theme=dracula&layout=compact)](https://github.com/hendrawanap)
+
+
+#### Let's be friend:
+<p align="left">
+<a href="https://twitter.com/balung_skin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="45" /></a>
+<a href="https://www.instagram.com/hendrawan.ap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="45" /></a>
+</p>
