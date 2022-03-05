@@ -2,7 +2,7 @@
 <a href="https://github.com/hendrawanap"><img align="center" src="https://github.com/hendrawanap/hendrawanap/blob/main/github_profile.gif" width=400px height=400px /></a>
 </p>
 
-## Hello there, I'm Hendra (he/him) <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="30" />
+## Hello there, I'm Hendra (he/him) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" />
 ### I'm a Fullstack Web Developer
 ### I'm currently:
 #### 🏫 Finishing my informatics engineering studies at Universitas Brawijaya
@@ -28,7 +28,7 @@
 - Backend Web:
 <p align="left">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="40"/></a>
+  <a href="https://hapi.dev" target="_blank"><img src="https://hapi.dev/img/hapi.svg" alt="hapi" width="45" height="40"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="45" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="40"/></a>
