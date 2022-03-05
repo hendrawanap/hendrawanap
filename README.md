@@ -5,7 +5,7 @@
 ## Hello there, I'm Hendra (he/him) <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="30" />
 ### I'm a Fullstack Web Developer
 ### I'm currently:
-#### 🏫 Finishing my study in informatics engineering at Universitas Brawijaya
+#### 🏫 Finishing my informatics engineering studies at Universitas Brawijaya
 #### 🔭 Participating in [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path as Cohort/Participant
 #### 🌱 Learning backend development, microservices, and cloud services
 #### 🤝 Looking for web development projects:
