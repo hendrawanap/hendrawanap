@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/hendrawanap"><img align="center" src="https://github.com/hendrawanap/hendrawanap/blob/main/github_profile.gif" width=400px height=400px /></a>
+<a href="https://github.com/hendrawanap"><img align="center" src="https://github.com/hendrawanap/hendrawanap/blob/main/github_profile.gif" width=400px /></a>
 </p>
 
 ## Hello there, I'm Hendra (he/him) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" />
