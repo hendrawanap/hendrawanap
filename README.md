@@ -3,7 +3,7 @@
 </p>
 
 ## Hello there, I'm Hendra (he/him) <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30" />
-### I'm a Fullstack Web Developer
+### I'm a Web Developer
 ### I'm currently:
 - 🏫 **Finishing my informatics engineering studies at Universitas Brawijaya**
 - 🔭 **Participating in [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path as Cohort/Participant**
