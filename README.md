@@ -6,11 +6,12 @@
 ### I'm a Web Developer
 ### I'm currently:
 - 🏫 **Finishing my informatics engineering studies at Universitas Brawijaya**
-- 🔭 **Participating in [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path as Cohort/Participant**
 - 🌱 **Learning backend development, microservices, and cloud services**
 - 🤝 **Looking for web development projects:**
   - Email me at <dev.hendrawan.ap@gmail.com>, or
   - Connect to my [LinkedIn](https://www.linkedin.com/in/hendrawan-anantha-putra-23b52a21b/)
+### Past Experiences:
+- 🔭 **Distinction Graduates from [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/) - Cloud Computing Learning Path**
 
 ### Languages and tools I use:
 - **Frontend Web:**
