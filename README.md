@@ -49,7 +49,7 @@
 ---
 
 ### Github Statistics 📈
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=hendrawanap&show_icons=true&theme=dracula&include_all_commits=true&hide=contribs" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=hendrawanap&show_icons=true&theme=dracula" /></a>
 <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hendrawanap&show_icons=true&theme=dracula&layout=compact" /></a>
 
 ---
